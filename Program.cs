@@ -1,1 +1,1 @@
-﻿Console.WriteLine("xin chao cac ban");
+﻿Console.WriteLine("hello hello hello");
