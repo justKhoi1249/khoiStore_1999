@@ -1,0 +1,15 @@
+E:\LOP_ASP_NET\BE_2505\bin\Debug\net8.0\BE_2505.exe
+E:\LOP_ASP_NET\BE_2505\bin\Debug\net8.0\BE_2505.deps.json
+E:\LOP_ASP_NET\BE_2505\bin\Debug\net8.0\BE_2505.runtimeconfig.json
+E:\LOP_ASP_NET\BE_2505\bin\Debug\net8.0\BE_2505.dll
+E:\LOP_ASP_NET\BE_2505\bin\Debug\net8.0\BE_2505.pdb
+E:\LOP_ASP_NET\BE_2505\obj\Debug\net8.0\BE_2505.GeneratedMSBuildEditorConfig.editorconfig
+E:\LOP_ASP_NET\BE_2505\obj\Debug\net8.0\BE_2505.AssemblyInfoInputs.cache
+E:\LOP_ASP_NET\BE_2505\obj\Debug\net8.0\BE_2505.AssemblyInfo.cs
+E:\LOP_ASP_NET\BE_2505\obj\Debug\net8.0\BE_2505.csproj.CoreCompileInputs.cache
+E:\LOP_ASP_NET\BE_2505\obj\Debug\net8.0\BE_2505.sourcelink.json
+E:\LOP_ASP_NET\BE_2505\obj\Debug\net8.0\BE_2505.dll
+E:\LOP_ASP_NET\BE_2505\obj\Debug\net8.0\refint\BE_2505.dll
+E:\LOP_ASP_NET\BE_2505\obj\Debug\net8.0\BE_2505.pdb
+E:\LOP_ASP_NET\BE_2505\obj\Debug\net8.0\BE_2505.genruntimeconfig.cache
+E:\LOP_ASP_NET\BE_2505\obj\Debug\net8.0\ref\BE_2505.dll
